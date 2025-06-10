@@ -14,8 +14,8 @@ This repository showcases the official website project for Towa Cafe, meticulous
 - Modern Aesthetics: Utilizes a clean design with a pleasant color palette and a custom Google Font (Philosopher) to convey a warm and sophisticated cafe ambiance.
 
 # 💻 Built With
--HTML5: Structured semantic content for all pages.
--CSS3: Styled the entire website, including responsive layouts using Flexbox and CSS Grid, custom fonts, and interactive elements.
+- HTML5: Structured semantic content for all pages.
+- CSS3: Styled the entire website, including responsive layouts using Flexbox and CSS Grid, custom fonts, and interactive elements.
 
 # 📸 Screenshots
 - Home - https://github.com/Nilasi01/TOWA_CAFE-WCB-/blob/main/homepage.png
@@ -77,10 +77,10 @@ Open index.html in your web browser: Simply double-click on index.html (or drag 
 # 📚 Purpose
 This project was developed as a practical exercise in building a complete, multi-page, responsive website using fundamental web development skills. It demonstrates proficiency in:
 
-Structuring web content with semantic HTML.
-Styling and layout design with advanced CSS techniques (Flexbox, Grid, media queries).
-Creating an intuitive and engaging user experience.
-Handling external resources like Google Fonts and CSS resets.
+- Structuring web content with semantic HTML.
+- Styling and layout design with advanced CSS techniques (Flexbox, Grid, media queries).
+- Creating an intuitive and engaging user experience.
+- Handling external resources like Google Fonts and CSS resets.
 
 # 👩‍🎓 Author
 Created by a university student for academic purposes.
