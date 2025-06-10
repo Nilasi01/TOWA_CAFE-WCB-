@@ -18,7 +18,7 @@ This repository showcases the official website project for Towa Cafe, meticulous
 -CSS3: Styled the entire website, including responsive layouts using Flexbox and CSS Grid, custom fonts, and interactive elements.
 
 # 📸 Screenshots
-
+- Home - 
 
 # 📂 Folder Structure
 ├── Images/
